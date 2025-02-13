@@ -2,6 +2,7 @@
 <h3 align="center">A DevOps and Cloud Enthusiast from Earth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhs26206&label=Profile%20views&color=0e75b6&style=flat" alt="dhs26206" /> </p>
+<p align="left"> <img src="https://faas-blr1-8177d592.doserverless.co/api/v1/web/fn-f7ac798e-c0ad-4b65-ac02-37af7b5ff2a5/default/github_stats" alt="." /> </p>
 
 - 🌱 I’m currently learning **AWS,DevOps**
 
